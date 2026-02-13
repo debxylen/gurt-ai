@@ -1,8 +1,8 @@
 <sub><sup>(i was too lazy for a proper site rn so 'enjoy' this md slop thanks)</sup></sub>
 
 # gurtfu
-<small>(the bot is nicked gurt and i couldnt figure out a name for the waifu module... so gurtfu it is)
-(or maybe because half the architecture is copypasted from the main bot's chat sys, nicked gurt)</small>
+<sub><sup>(the bot is nicked gurt and i couldnt figure out a name for the waifu module... so gurtfu it is)
+(or maybe because half the architecture is copypasted from the main bot's chat sys, nicked gurt)</sub></sup>
 
 per-user discord-native AI waifu focused on conversational continuity and accessibility.
 
@@ -88,3 +88,4 @@ because theres no ratelimits yet and im broke
 i'll make it public-access... one day...
 
 btw this is experimental. things may break.
+
