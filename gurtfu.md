@@ -81,11 +81,12 @@ well yes but i'm too bored rn.
 
 ## try it
 
-test server: https://discord.gg/hNjy3XXUE2
+test server: [https://discord.gg/hNjy3XXUE2](https://discord.gg/hNjy3XXUE2)
 
 currently servers are whitelisted so you can dm me for getting whitelisted
 because theres no ratelimits yet and im broke
 i'll make it public-access... one day...
 
 btw this is experimental. things may break.
+
 
